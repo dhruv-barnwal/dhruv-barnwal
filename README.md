@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dhruv Barnwal 👋
 
-<!--
-**dhruv-barnwal/dhruv-barnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in Software Development, Full-Stack Development, AI/ML, and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Programming: C, Python
+- Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- Cybersecurity: Linux, Nmap, Wireshark, Burp Suite, Metasploit
+- Web Development: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+- Tools: Git, GitHub
+
+### 📌 Projects
+
+- Skill Partner Platform — Full-stack platform for skill discovery, matching, and communication.
+- Memory Forensics Investigation — Analysis of an institute-provided memory dump and documentation of findings.
+
+### 🎯 Currently
+
+Looking for internship opportunities in Software Development, Full-Stack Development, AI/ML, and Cybersecurity.
+
+### 📫 Connect with me
+
+- LinkedIn: [Dhruv Barnwal](YOUR_LINKEDIN_URL)
